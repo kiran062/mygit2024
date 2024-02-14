@@ -280,3 +280,60 @@ git pull
 git push -u origin matser
 git push origin -u master
 git pull
+git remote -v
+git push -u origin master
+git pull
+cat index.html 
+nano index.html 
+git status
+nano index.html 
+cat index.html 
+git commit -m "msg"
+git status
+git add .
+git status
+git push -u origin master --force
+cat index.html 
+nano index.html 
+git commit -m "new
+
+git status
+git add .
+git status
+git push -u origin master --force
+git pull
+cat index.html 
+git commit -m "new"
+git status
+git push -u origin master --force
+git pull
+nano index.html 
+git fetch 
+git merge
+cat index.html 
+nano index.html 
+git staus
+git status
+nano index.html 
+git push -u origin master --force
+git commit -m "new2"
+gid add .
+git add .
+git status
+cat index.html 
+git push -u origin master --force
+ git push -u origin master --force
+git remote -v
+git pull -u origin master
+git pull
+git status
+git add .
+git status
+git remote -v
+git remote add origin https://github.com/kiran062/mygit2024 
+git remote add production  https://github.com/kiran062/mygit2024 
+git remote -v
+git pull
+git push -u origin master
+pwd
+ls
