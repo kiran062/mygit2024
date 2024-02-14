@@ -159,3 +159,124 @@ git remote -v
 git push -u origin master
 git pull
 cat index.html
+ls
+pwd
+git status
+git remote -v
+git remote add origin  https://github.com/kiran062/mygit2024
+git remote -v
+git remote add production https://github.com/kiran062/mygit2024 
+git push -u origin master
+kiran062
+
+mygit2024 
+git push -u origin master
+history
+git status
+git add .
+git status
+cat .viminfo
+cat index.html 
+git local -v
+git --help
+git remote -v
+git remote add origin https://github.com/kiran062/mygit2024
+git remote -v
+git pull -u origin master
+git push
+cd myfirstrepo/
+ls
+touch kk
+ls
+nano kk
+cat kk
+rm kk
+ls
+cd 
+touch kk
+ls
+git status
+git add .
+git status
+git init
+git status
+nano kk
+cat  kk
+git status
+git add .
+git status
+git log
+dc5b9b7e
+git commit -m kk
+git status
+git log
+cat kk
+nano kk
+cat kk
+git status
+git log
+git status
+git commit
+git status
+git log
+74a61cf13382731c20f7b3231664d4c3ccf4a4a6 
+git commit 74a61cf13382731c20f7b3231664d4c3ccf4a4a6 
+git commit -a74a61cf13382731c20f7b3231664d4c3ccf4a4a6 
+git status
+git add .
+git status
+pwd
+ls
+cat index.html 
+git status
+rm kk
+git log
+git status
+git add .
+git status
+ls
+git log
+git log index.html
+git log
+git log index.html
+git log 6a617bc
+pwd
+git status
+git init
+ls
+git add .
+git status
+git log
+git commit
+git log
+git commit -m
+git commit -a
+git commit index.html 
+git commit file.txt
+ls
+git commit help.txt 
+git commit -m "my commit"
+git log
+git status
+git add .
+git status
+ls
+cat help.txt 
+nano help.txt 
+cat help.txt 
+git log
+pwd
+ls
+git commit -m "new commit"
+git log
+ls
+git push -u origin master
+git remote -v
+git remote add origin /github.com/kiran062/mygit2024
+git remote -v
+git push -u origin matser
+git push origin master
+git pull
+git push -u origin matser
+git push origin -u master
+git pull
