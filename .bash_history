@@ -366,3 +366,49 @@ ls
 rm -r kiran
 ls
 history
+git branch -a
+git merge newbranch
+cat index.html 
+git status
+git add .
+git status
+cd mygit/
+cd mygit2024
+cd mygit
+pwd
+cd
+cd mygit2024/
+cd mygit/
+ls
+cat index.html 
+git status
+git commit -am "none"
+git status
+git branch
+git branch --list
+git branch newbranch
+git branch --list
+git branch -a
+git status
+git checkout newbranch
+ls
+nano index.html 
+cat index.html 
+git add .
+git status
+git commit -m "branch"
+git log --oneline --graph
+git push -u origin newbranch
+git status
+git checkout mastergit --version
+pwd
+ls
+git status
+git log --oneline -- graph
+git log --oneline --graph
+cat index.html 
+git push -u origin master
+cat index.html 
+git commit -am "branch1"
+git push origin -master
+git push -u origin master

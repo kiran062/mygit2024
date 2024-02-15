@@ -34,30 +34,56 @@
 |3,1,36,0,1,0,1707889973,"l"
 
 # File marks:
-'0  16  0  ~/index.html
-|4,48,16,0,1707891198,"~/index.html"
-'1  15  0  ~/.git/COMMIT_EDITMSG
-|4,49,15,0,1707807328,"~/.git/COMMIT_EDITMSG"
-'2  1  0  ~/.git/COMMIT_EDITMSG
-|4,50,1,0,1707807065,"~/.git/COMMIT_EDITMSG"
-'3  3  0  ~/index.html
-|4,51,3,0,1707449023,"~/index.html"
-'4  3  0  ~/index.html
-|4,52,3,0,1707449023,"~/index.html"
+'0  1  0  ~/index.html
+|4,48,1,0,1708004464,"~/index.html"
+'1  16  0  ~/index.html
+|4,49,16,0,1707891198,"~/index.html"
+'2  16  0  ~/index.html
+|4,50,16,0,1707891198,"~/index.html"
+'3  15  0  ~/.git/COMMIT_EDITMSG
+|4,51,15,0,1707807328,"~/.git/COMMIT_EDITMSG"
+'4  1  0  ~/.git/COMMIT_EDITMSG
+|4,52,1,0,1707807065,"~/.git/COMMIT_EDITMSG"
+'5  3  0  ~/index.html
+|4,53,3,0,1707449023,"~/index.html"
+'6  3  0  ~/index.html
+|4,54,3,0,1707449023,"~/index.html"
+'7  3  0  ~/index.html
+|4,55,3,0,1707449023,"~/index.html"
+'8  3  0  ~/index.html
+|4,56,3,0,1707449023,"~/index.html"
 
 # Jumplist (newest first):
+-'  1  0  ~/index.html
+|4,39,1,0,1708004464,"~/index.html"
 -'  16  0  ~/index.html
 |4,39,16,0,1707891198,"~/index.html"
+-'  16  0  ~/index.html
+|4,39,16,0,1707891198,"~/index.html"
+-'  3  0  ~/index.html
+|4,39,3,0,1707889964,"~/index.html"
 -'  3  0  ~/index.html
 |4,39,3,0,1707889964,"~/index.html"
 -'  15  0  ~/.git/COMMIT_EDITMSG
 |4,39,15,0,1707807328,"~/.git/COMMIT_EDITMSG"
 -'  15  0  ~/.git/COMMIT_EDITMSG
 |4,39,15,0,1707807328,"~/.git/COMMIT_EDITMSG"
+-'  15  0  ~/.git/COMMIT_EDITMSG
+|4,39,15,0,1707807328,"~/.git/COMMIT_EDITMSG"
+-'  15  0  ~/.git/COMMIT_EDITMSG
+|4,39,15,0,1707807328,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1707807065,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1707807065,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1707807065,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1707807065,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1707806932,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1707806932,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1707806932,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
