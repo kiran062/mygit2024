@@ -26,23 +26,40 @@
 "a	CHAR	0
 	
 |3,0,10,0,1,0,1707806972,""
-""-	BLOCK	2
-	
-|3,1,36,2,1,2,1707448983,""
+"q	CHAR	0
+	€kbw
+|3,0,26,0,1,0,1707890006,"€kbw"
+""-	CHAR	0
+	l
+|3,1,36,0,1,0,1707889973,"l"
 
 # File marks:
-'0  15  0  ~/.git/COMMIT_EDITMSG
-|4,48,15,0,1707807328,"~/.git/COMMIT_EDITMSG"
-'1  1  0  ~/.git/COMMIT_EDITMSG
-|4,49,1,0,1707807065,"~/.git/COMMIT_EDITMSG"
-'2  3  0  ~/index.html
-|4,50,3,0,1707449023,"~/index.html"
+'0  16  0  ~/index.html
+|4,48,16,0,1707891198,"~/index.html"
+'1  15  0  ~/.git/COMMIT_EDITMSG
+|4,49,15,0,1707807328,"~/.git/COMMIT_EDITMSG"
+'2  1  0  ~/.git/COMMIT_EDITMSG
+|4,50,1,0,1707807065,"~/.git/COMMIT_EDITMSG"
+'3  3  0  ~/index.html
+|4,51,3,0,1707449023,"~/index.html"
+'4  3  0  ~/index.html
+|4,52,3,0,1707449023,"~/index.html"
 
 # Jumplist (newest first):
+-'  16  0  ~/index.html
+|4,39,16,0,1707891198,"~/index.html"
+-'  3  0  ~/index.html
+|4,39,3,0,1707889964,"~/index.html"
+-'  15  0  ~/.git/COMMIT_EDITMSG
+|4,39,15,0,1707807328,"~/.git/COMMIT_EDITMSG"
 -'  15  0  ~/.git/COMMIT_EDITMSG
 |4,39,15,0,1707807328,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1707807065,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1707807065,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1707806932,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1707806932,"~/.git/COMMIT_EDITMSG"
 -'  3  0  ~/index.html
@@ -57,8 +74,19 @@
 |4,39,1,0,1707448835,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1707448835,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1707448835,"~/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/index.html
+	*	1707890017	0
+	"	16	0
+	^	16	0
+	.	16	0
+	+	1	22
+	+	3	0
+	+	16	0
 
 > ~/.git/COMMIT_EDITMSG
 	*	1707806997	0
@@ -66,11 +94,3 @@
 	^	15	0
 	.	14	2
 	+	14	2
-
-> ~/index.html
-	*	1707449008	0
-	"	3	0
-	^	3	0
-	.	3	0
-	+	1	22
-	+	3	0

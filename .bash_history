@@ -337,3 +337,32 @@ git pull
 git push -u origin master
 pwd
 ls
+git init
+ls
+ll
+vi index.html 
+cat index.html 
+nano index.html 
+cat index.html 
+git commit -am "hello"
+git status
+git add .
+git status
+ls
+cat index.html 
+git log
+git remote -v
+git push -u origin master
+git pull
+cat index.html 
+nano index.html 
+cat index.html 
+ls
+mkdir kiran
+ls
+git status
+git init
+ls
+rm -r kiran
+ls
+history
